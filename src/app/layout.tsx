@@ -5,7 +5,7 @@ import "./styles.css";
 
 const navLinks = [
   { name: "Cayenne", href: "/" },
-  { name: "Vehicles", href: "/veichles" },
+  { name: "Vehicles", href: "/vehicles" },
   { name: "Support", href: "/support" },
   { name: "Login", href: "/login" },
 ];
